@@ -127,13 +127,6 @@ section {
     color: #2c3e50;
 }
 
-.testimony-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-}
-
 @media (max-width: 768px) {
     .header {
         flex-direction: column;
